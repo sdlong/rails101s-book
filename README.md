@@ -1,5 +1,5 @@
 
-![rails101s.png](http://user-image.logdown.io/user/3653/blog/8669/post/210279/kr2oo8LuQMGLhAaKuZy3_rails101s.png)
+![rails101s](images/rails101s.png)
 
 原作： xdite  ([原著](http://rails-101.logdown.com/))
 
@@ -27,7 +27,7 @@ Rails 101 裡面的 Code 的真正價值！
 ---
 
 
-![rails_outreach_icon.png](http://user-image.logdown.io/user/3653/blog/8669/post/210279/y2xYJEJJQPybZO7CgPIe_rails_outreach_icon.png)
+![Rails Outreach](images/rails_outreach_icon.png)
 
 ## Rails Outreach 是個志於讓大家快速學習 Rails 的推廣活動
 
@@ -44,7 +44,9 @@ Rails Outreach 從 2014 年 05 月 台北場開始，短短二個月內陸陸續
 
 ---
 
-![Rails Taiwan](https://lh4.googleusercontent.com/-FiiKz74sf6U/U8Seo6J5hVI/AAAAAAAAHTI/FoiaCvWs7XE/s603-no/rails-taiwan.png)
+![Rails Taiwan](images/rails-taiwan.png)
+
+# Rails Taiwan
 
 Rails Taiwan是源於2011年6月開始，
 每週二固定在臺北舉辦的Rails Taipei Meetup 社群，
