@@ -5,6 +5,8 @@
 
 改編： sdlong
 
+[原始碼](https://github.com/sdlong/group101)
+
 [blog 位置](http://rails101s.logdown.com/)
 
 # 本書內容為 Rails 101 without Bootstrapper
